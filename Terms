@@ -1,3 +1,5 @@
 Repository -> Repository of files.
 Commit -> "Save files (changes)", also have hash code of its own commit.
 Branch -> Manage the same main files in isolated seperate path.
+Edit done in "Analogy" branch
+Branch used to decide and experimenting ideas.
