@@ -1,2 +1,3 @@
 Repository -> Repository of files.
 Commit -> "Save files (changes)", also have hash code of its own commit.
+Branch -> Manage the same main files in isolated seperate path.
